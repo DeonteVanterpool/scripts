@@ -1,3 +1,4 @@
+adbfs-rootless-git
 blueman
 brave-bin
 zoom
