@@ -1,0 +1,3 @@
+intel-ucode
+rnote
+nvidia-dkms

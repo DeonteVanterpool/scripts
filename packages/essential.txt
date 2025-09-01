@@ -1,2 +1,7 @@
-neovim
+base-devel
 git
+neovim
+ntfs-3g
+openssh
+tmux
+xclip
