@@ -46,6 +46,7 @@ xdg-desktop-portal-gtk
 xdg-desktop-portal-xapp
 xorg
 xorg-xinit
+xournalpp
 zathura
 zathura-pdf-mupdf
 zip
